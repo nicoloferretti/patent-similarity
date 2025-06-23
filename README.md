@@ -1,2 +1,1 @@
-# Smart Innovation
-
+# Patent Similarity
