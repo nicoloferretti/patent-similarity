@@ -15,7 +15,7 @@ edges_ = data_network[2]
 #%% Dash
 import dash
 import dash_cytoscape as cyto
-import dash_html_components as html
+import dash.html as html
 from dash.dependencies import Input, Output
 
 #####Cyto Code
